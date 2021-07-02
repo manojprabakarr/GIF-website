@@ -1,4 +1,4 @@
-const API_KEY="gK9Sj1SYVyxaHmHjThMt6Z3nsVEJTozb";
+const API_KEY="gif apikey";
 
 const request={ 
     Trending:`stickers/trending?api_key=${API_KEY}&limit=50&rating=g`,
